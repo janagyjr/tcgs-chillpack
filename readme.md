@@ -1,0 +1,3 @@
+TCG's Chill Pack is all about exploration and massively epic builds in a survival world designed to challenge you but not right make it impossible to explore. Find your niche within the technological bounds or explore a limited range of magical options as you make your way through 5 unique main dimensions (Overowlrd, End, Nether, Aether, Erebus), a mining dimension, or one of the many dimensions added by Galacticraft and ExtraPlanets. 
+
+If you enjoy technology and exploration, this is definitely a pack you can chill out with and play long-term.
