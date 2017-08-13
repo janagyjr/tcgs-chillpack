@@ -108,3 +108,7 @@ Mods Included:
 	Waila
 	WAILA Plugins
 	Waterhook
+
+Future Changes:
+	Custom Splash image and main menu
+	More recipe adjustments
