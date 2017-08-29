@@ -1,26 +1,29 @@
 TCG's Chill Pack
 Changelog
 
-Beta version 0.6
-Fixed some unintendedly included configs, added some mods, tweaked the server pack a bit.
+Beta version 0.6  
+Fixed some unintendedly included configs, added some mods, tweaked the server pack a bit.  
 
-Mods Added:
-	ArchitectureCraft
-	CompactStorage
-	HeadCrumbs
-	MailisisCore
-	MailisisDoors
+Mods Added:  
+	ArchitectureCraft  
+	CompactStorage  
+	HeadCrumbs  
+	MailisisCore  
+	MailisisDoors  
 	
 
-Mods Removed:
-	N/A
+Client Mods Removed:  
+	DiscordChat  
 
-Configs Tweaked:
-	DiscordChat: removed the configs for it connecting to my private chat on Discord (whoops!)
+Updated all mods to current versions  
 
-Server Pack Mods Added:
-	DynMap
+Configs Tweaked:  
+	DiscordChat: removed the configs for it connecting to my private chat on Discord (whoops!)  
 
-Future Changes:
-	Custom Splash image and main menu
-	More recipe adjustments
+Server Pack Mods Added:  
+	DiscordChat  
+	DynMap  
+
+Future Changes:  
+	Custom Splash image and main menu  
+	More recipe adjustments  
