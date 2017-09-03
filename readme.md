@@ -2,4 +2,8 @@ TCG's Chill Pack is all about exploration and massively epic builds in a surviva
 
 And to connect all of your awesome builds together you have Railcraft to build massive rail lines between your towns, and even within build areas. The industrious redstoner may even be able to automate pickups and delivery's from one area to another on a set schedule. Given the limitations of FTB Utility's chunkloading, there is Chicken Chunks to the rescue (just keep in mind others if you're on an MP server)!
 
-If you enjoy technology and exploration, this is definitely a pack you can chill out with and play long-term.
+If you enjoy technology and exploration, this is definitely a pack you can chill out with and play long-term.  
+
+You can find my pack on the Twitch launcher desktop app or on Curse at https://mods.curse.com/modpacks/minecraft/273191-tcgs-chill-pack  
+
+Always get TCG's Chill Pack from official sources and you'll never have anything to worry about! Launching the pack from other launchers is not supported currently.
