@@ -1,29 +1,30 @@
 TCG's Chill Pack
 Changelog
 
-Beta version 0.6  
-Fixed some unintendedly included configs, added some mods, tweaked the server pack a bit.  
+Beta version 0.6.1  
 
 Mods Added:  
-	ArchitectureCraft  
-	CompactStorage  
-	HeadCrumbs  
-	MailisisCore  
-	MailisisDoors  
-	
+    Decocraft2  
+    HopperDucts  
+    Tinkers' Modifiers  
+    Thermal Tinkering  
+    Waila Harvestability  
+    BetterFps  
+    Waystones  
+    Botania Visualizer  
+    ExtraTIC  
+    Another one Bites the Dust
 
 Client Mods Removed:  
-	DiscordChat  
+
 
 Updated all mods to current versions  
 
 Configs Tweaked:  
-	DiscordChat: removed the configs for it connecting to my private chat on Discord (whoops!)  
+    Headcrumbs -  VIP list was adjusted to only include TCG's Discord community staff and VIPs  
 
 Server Pack Mods Added:  
-	DiscordChat  
-	DynMap  
 
 Future Changes:  
-	Custom Splash image and main menu  
-	More recipe adjustments  
+    Custom Splash image and main menu  
+    More recipe adjustments  
