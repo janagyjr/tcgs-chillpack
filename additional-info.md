@@ -1,0 +1,1 @@
+Alternate support is available at https://discord.gg/9yb8gah
