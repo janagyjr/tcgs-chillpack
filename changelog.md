@@ -24,6 +24,7 @@ Configs Tweaked:
     Headcrumbs -  VIP list was adjusted to only include TCG's Discord community staff and VIPs  
 
 Server Pack Mods Added:  
+    Dynmap
 
 Future Changes:  
     Custom Splash image and main menu  
