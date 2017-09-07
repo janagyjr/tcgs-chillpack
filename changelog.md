@@ -1,7 +1,7 @@
-TCG's Chill Pack
-Changelog
+# TCG's Chill Pack  
+## Changelog  
 
-Beta version 0.6.1  
+### Beta version 0.6.1  
 
 Mods Added:  
     Decocraft2  
@@ -13,10 +13,10 @@ Mods Added:
     Waystones  
     Botania Visualizer  
     ExtraTIC  
-    Another one Bites the Dust
+    Another one Bites the Dust  
 
 Client Mods Removed:  
-
+    N/A
 
 Updated all mods to current versions  
 
@@ -24,7 +24,7 @@ Configs Tweaked:
     Headcrumbs -  VIP list was adjusted to only include TCG's Discord community staff and VIPs  
 
 Server Pack Mods Added:  
-    Dynmap
+    Dynmap  
 
 Future Changes:  
     Custom Splash image and main menu  
