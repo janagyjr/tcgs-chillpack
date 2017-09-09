@@ -2,7 +2,7 @@
 ## Changelog  
 
 ### Beta Version 0.8.1  
-Mods Added:
+Mods Added:  
      N/A  
 
 Mods Removed:  
