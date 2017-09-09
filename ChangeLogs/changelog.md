@@ -12,7 +12,7 @@ Updated:
      Extra Planets to 1.8.6
 
 Newly Added:  
-     Official public modded server for TCG's Chill Pack
+     Official public modded server for TCG's Chill Pack  
      Official Discord community is [TCG & Friends](https://discord.gg/vxQ73CH)  
 
 ### Beta version 0.6.1  
