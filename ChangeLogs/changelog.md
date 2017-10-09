@@ -9,7 +9,7 @@ Mods Removed:
     	N/A  
 
 Updated:  
-     	DiscordChat-1.7.10-2.3.0  
+     	DiscordChat-1.7.10-2.3.0 (updated to reflect new Discord Categories)  
 
 Newly Added:  
     	N/A  
