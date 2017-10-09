@@ -1,6 +1,20 @@
 # TCG's Chill Pack  
 ## Changelog  
 
+### Beta Version 0.8.2
+Mods Added:  
+     	N/A  
+
+Mods Removed:  
+    	N/A  
+
+Updated:  
+     	DiscordChat-1.7.10-2.3.0  
+
+Newly Added:  
+    	N/A  
+
+
 ### Beta Version 0.8.1  
 Mods Added:  
      N/A  
