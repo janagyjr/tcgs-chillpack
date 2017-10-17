@@ -1,6 +1,19 @@
 # TCG's Chill Pack  
 ## Changelog  
 
+### Release 0.8.3 (hot fix)  
+Mods Added:  
+    N/A  
+
+Mods Removed:  
+    N/A  
+
+Updated:  
+    Forgot server.dat in last release
+
+Newly Added:  
+    N/A  
+
 ### Beta Version 0.8.2
 Mods Added:  
      	N/A  
