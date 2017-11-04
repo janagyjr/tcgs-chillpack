@@ -1,6 +1,29 @@
 # TCG's Chill Pack  
 ## Changelog  
 
+### Release 0.9  
+Mods Added:  
+DiscordIntegration  
+Tick Dynamic (server only)  
+Crafting Tweaks  
+
+Mods Removed:
+DiscordChat (cannot get configuration working with new Discord categories)
+
+Updated:
+ExtraPlanets to 1.8.7
+
+Configs Changed:  
+AE2's Spatial Storage disabled (server only)  
+AE2's Spatial Storage dimension biome id adjusted (single-player)  
+Iguana's Tinker's Tweaks copied from Project Ozone 2 (which is an awesome pack you should go play, right after you're done chilling out with my pack)  
+RFTools configs tweaked for builder block  
+server.dat updated to reflect new host for public server  
+JourneyMap server configs updated  
+Minor tweak to Aroma1997's Dimenionsal World  
+Biome's O'Plenty configured for large biomes now
+
+
 ### Release 0.8.3 (hot fix)  
 Mods Added:  
     N/A  
