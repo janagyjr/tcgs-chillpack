@@ -7,11 +7,11 @@ DiscordIntegration
 Tick Dynamic (server only)  
 Crafting Tweaks  
 
-Mods Removed:
-DiscordChat (cannot get configuration working with new Discord categories)
+Mods Removed:  
+DiscordChat (cannot get configuration working with new Discord categories)  
 
-Updated:
-ExtraPlanets to 1.8.7
+Updated:  
+ExtraPlanets to 1.8.7  
 
 Configs Changed:  
 AE2's Spatial Storage disabled (server only)  
@@ -21,7 +21,7 @@ RFTools configs tweaked for builder block
 server.dat updated to reflect new host for public server  
 JourneyMap server configs updated  
 Minor tweak to Aroma1997's Dimenionsal World  
-Biome's O'Plenty configured for large biomes now
+Biome's O'Plenty configured for large biomes now  
 
 
 ### Release 0.8.3 (hot fix)  
