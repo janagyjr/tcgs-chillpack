@@ -1,6 +1,10 @@
 # TCG's Chill Pack  
 ## Changelog  
 
+### Release 0.9.1  
+Mods Added:  
+Render Player API (to help resolve a display issue with Galacticraft oxygen equipment)
+
 ### Release 0.9  
 Mods Added:  
 DiscordIntegration  
