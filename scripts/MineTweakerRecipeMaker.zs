@@ -18,10 +18,9 @@
 
 // ================================================================================
 //#MARKER REMOVE SHAPED
-recipes.removeShaped(<ExtraUtilities:angelBlock>, [[null, <ore:ingotGold>, null], [<minecraft:feather>, <minecraft:obsidian>, <minecraft:feather>]]);
-recipes.removeShaped(<ExtraUtilities:angelBlock>, [[null, <ore:ingotGold>, null], [<minecraft:feather>, <minecraft:obsidian>, <minecraft:feather>]]);
-recipes.removeShaped(<ExtraUtilities:angelBlock>, [[null, <ore:ingotGold>, null], [<minecraft:feather>, <minecraft:obsidian>, <minecraft:feather>]]);
-recipes.removeShaped(<ExtraUtilities:angelBlock>, [[null, <ore:ingotGold>, null], [<minecraft:feather>, <minecraft:obsidian>, <minecraft:feather>]]);
+recipes.removeShaped(<ExtraPlanets:item.electricParts>, [[<ore:ingotLead>, <GalacticraftMars:item.null:3>, <ore:ingotLead>], [<GalacticraftMars:item.null:3>, <ore:ingotLead>, <GalacticraftMars:item.null:3>], [<ore:ingotLead>, <GalacticraftMars:item.null:3>, <ore:ingotLead>]]);
+
+
 
 // ================================================================================
 //#MARKER ADD
@@ -31,6 +30,16 @@ recipes.removeShaped(<ExtraUtilities:angelBlock>, [[null, <ore:ingotGold>, null]
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<ExtraPlanets:item.electricParts>, [[<ore:ingotLead>, <GalacticraftMars:item.null:3>, <ore:ingotLead>], [<GalacticraftMars:item.null:3>, <ore:ingotLead>, <GalacticraftMars:item.null:3>], [<ore:ingotLead>, <GalacticraftMars:item.null:3>, <ore:ingotLead>]]);
+recipes.addShaped(<ExtraUtilities:dark_portal>, [[<ore:compressedCobblestone4x>, <ExtraUtilities:block_bedrockium>, <ore:compressedCobblestone4x>], [<ExtraUtilities:block_bedrockium>, <ore:compressedCobblestone5x>, <ExtraUtilities:block_bedrockium>], [<ore:compressedCobblestone4x>, <ExtraUtilities:block_bedrockium>, <ore:compressedCobblestone4x>]]);
+recipes.addShaped(<ExtraUtilities:dark_portal>, [[<ore:compressedCobblestone4x>, <ore:compressedCobblestone8x>, <ore:compressedCobblestone4x>], [<ore:compressedCobblestone8x>, <ore:compressedCobblestone5x>, <ore:compressedCobblestone8x>], [<ore:compressedCobblestone4x>, <ore:compressedCobblestone8x>, <ore:compressedCobblestone4x>]]);
+recipes.addShaped(<ExtraUtilities:angelRing:4>, [[<ore:nuggetGold>, <ore:ingotGold>, <ore:nuggetGold>], [<ore:ingotGold>, <ore:itemNetherStar>, <ore:ingotGold>], [<headcrumbs:head:26>, <ore:ingotGold>, <minecraft:ghast_tear>]]);
+recipes.addShaped(<ExtraUtilities:angelRing:3>, [[<ore:itemLeather>, <ore:ingotGold>, <ore:itemLeather>], [<ore:ingotGold>, <ore:itemNetherStar>, <ore:ingotGold>], [<headcrumbs:head:26>, <ore:ingotGold>, <minecraft:ghast_tear>]]);
+recipes.addShaped(<ExtraUtilities:angelRing:2>, [[<ore:dyePurple>, <ore:ingotGold>, <ore:dyePink>], [<ore:ingotGold>, <ore:itemNetherStar>, <ore:ingotGold>], [<headcrumbs:head:26>, <ore:ingotGold>, <minecraft:ghast_tear>]]);
+recipes.addShaped(<ExtraUtilities:angelRing:1>, [[<minecraft:feather>, <ore:ingotGold>, <minecraft:feather>], [<ore:ingotGold>, <ore:itemNetherStar>, <ore:ingotGold>], [<headcrumbs:head:26>, <ore:ingotGold>, <minecraft:ghast_tear>]]);
+recipes.addShaped(<ExtraUtilities:angelRing>, [[<ore:blockGlassColorless>, <ore:ingotGold>, <ore:blockGlassColorless>], [<ore:ingotGold>, <ore:itemNetherStar>, <ore:ingotGold>], [<headcrumbs:head:26>, <ore:ingotGold>, <minecraft:ghast_tear>]]);
+recipes.addShaped(<EnderIO:itemPowerConduit:2> * 1, [[<ore:itemConduitBinder>, <ore:itemConduitBinder>, <ore:itemConduitBinder>], [<ore:ingotVibrantAlloy>, <EnderIO:itemPowerConduit:1>, <EnderIO:itemAlloy:2>], [<ore:itemConduitBinder>, <ore:itemConduitBinder>, <ore:itemConduitBinder>]]);
+recipes.addShaped(<EnderIO:itemPowerConduit:1> * 1, [[<ore:itemConduitBinder>, <ore:itemConduitBinder>, <ore:itemConduitBinder>], [<ore:ingotEnergeticAlloy>, <EnderIO:itemPowerConduit>, <ore:ingotEnergeticAlloy>], [<ore:itemConduitBinder>, <ore:itemConduitBinder>, <ore:itemConduitBinder>]]);
 recipes.addShaped(<ExtraUtilities:angelBlock>, [[null, <ore:ingotGold>, null], [<minecraft:feather>, <minecraft:enchanting_table>, <minecraft:feather>]]);
 recipes.addShaped(<ExtraUtilities:magnumTorch>, [[<minecraft:torch>, <minecraft:torch>, <minecraft:torch>], [<minecraft:diamond_block>, <ore:blockGold>, <minecraft:diamond_block>], [<ExtraUtilities:decorativeBlock1:8>, <ore:blockGold>, <ExtraUtilities:decorativeBlock1:8>]]);
 recipes.addShaped(<ExtraUtilities:magnumTorch>, [[<minecraft:torch>, <minecraft:torch>, <minecraft:torch>], [<minecraft:diamond_block>, <ore:blockGold>, <minecraft:diamond_block>], [<ExtraUtilities:decorativeBlock1:8>, <ore:blockGold>, <ExtraUtilities:decorativeBlock1:8>]]);
