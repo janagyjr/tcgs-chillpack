@@ -1,6 +1,18 @@
 # TCG's Chill Pack  
 ## Changelog  
 
+### Release 1.0.1
+Mods Added:  
+N/A  
+
+Mods Removed:  
+- Dynmap (server only)
+
+Updated:  
+N/A  
+
+Configs Changed:  
+N/A  
 
 
 ### Release 1.0   
@@ -27,7 +39,6 @@ Mods Removed:
 - Fast Leaf Decay (functionality is included in Random Things)
 - Smart Render (causing an unknown issue with other mods)
 - Betterfps (removed from server)  
-- 
 
 Updated:  
 - Biome's O'Plenty updated to most recent version  
