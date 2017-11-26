@@ -27,7 +27,7 @@ Mods Removed:
 - Fast Leaf Decay (functionality is included in Random Things)
 - Smart Render (causing an unknown issue with other mods)
 - Betterfps (removed from server)  
-- Dynmap (removed from server)
+- 
 
 Updated:  
 - Biome's O'Plenty updated to most recent version  
