@@ -1,6 +1,19 @@
 # TCG's Chill Pack  
 ## Changelog  
 
+### Release 1.0.2
+Mods Added:
+- ResourceLoader  
+
+Mods Removed:  
+N/A  
+
+Updated:  
+N/A  
+
+Configs Changed:   
+- Added a new gunpowder recipe  
+
 ### Release 1.0.1
 Mods Added:  
 N/A  
