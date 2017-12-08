@@ -1,22 +1,9 @@
 # TCG's Chill Pack  
 ## Changelog  
 
-### Release 1.1.1 (server hotfix)
-Mods Added:
-- Backpacks (to the server, client already had mod)  
-
-Mods Removed:  
-N/A  
-
-Updated:
-N/A  
-
-Configs Changed:  
-N/A  
-
 ### Release 1.1
 Mods Added:  
-N/A  
+- Backpacks (to the server, client already had mod)  
 
 Mods Removed:  
 N/A  
@@ -27,6 +14,7 @@ Updated:
 Configs Changed:  
 - Fixed Tier 2 launchpad recipe to accept any titanium 
 - Finished creating custom main menu
+- Included server.dat for public server
 
 ### Release 1.0.2
 Mods Added:
