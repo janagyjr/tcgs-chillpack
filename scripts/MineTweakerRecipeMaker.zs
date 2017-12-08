@@ -18,9 +18,7 @@
 
 // ================================================================================
 //#MARKER REMOVE SHAPED
-recipes.removeShaped(<ExtraPlanets:item.electricParts>, [[<ore:ingotLead>, <GalacticraftMars:item.null:3>, <ore:ingotLead>], [<GalacticraftMars:item.null:3>, <ore:ingotLead>, <GalacticraftMars:item.null:3>], [<ore:ingotLead>, <GalacticraftMars:item.null:3>, <ore:ingotLead>]]);
-
-
+recipes.removeShaped(<minecraft:fire>, [[<ore:cobblestone>, null, null], [<ore:cobblestone>, null, null], [<ore:dirt>, <ore:dirt>, <ore:dirt>]]);
 
 // ================================================================================
 //#MARKER ADD
@@ -30,6 +28,8 @@ recipes.removeShaped(<ExtraPlanets:item.electricParts>, [[<ore:ingotLead>, <Gala
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<ExtraPlanets:tile.advancedLaunchPad> * 5, [[<ore:blockTitanium>, <ore:blockTitanium>, <ore:blockTitanium>], [<ore:ingotTitanium>, <ore:ingotTitanium>, <ore:ingotTitanium>]]);
+recipes.addShaped(<minecraft:gunpowder>, [[<ore:dustSulfur>, <ore:dustSulfur>], [<ore:dustSulfur>, <ore:dustSulfur>]]);
 recipes.addShaped(<ExtraPlanets:item.electricParts>, [[<ore:ingotLead>, <GalacticraftMars:item.null:3>, <ore:ingotLead>], [<GalacticraftMars:item.null:3>, <ore:ingotLead>, <GalacticraftMars:item.null:3>], [<ore:ingotLead>, <GalacticraftMars:item.null:3>, <ore:ingotLead>]]);
 recipes.addShaped(<ExtraUtilities:dark_portal>, [[<ore:compressedCobblestone4x>, <ExtraUtilities:block_bedrockium>, <ore:compressedCobblestone4x>], [<ExtraUtilities:block_bedrockium>, <ore:compressedCobblestone5x>, <ExtraUtilities:block_bedrockium>], [<ore:compressedCobblestone4x>, <ExtraUtilities:block_bedrockium>, <ore:compressedCobblestone4x>]]);
 recipes.addShaped(<ExtraUtilities:dark_portal>, [[<ore:compressedCobblestone4x>, <ore:compressedCobblestone8x>, <ore:compressedCobblestone4x>], [<ore:compressedCobblestone8x>, <ore:compressedCobblestone5x>, <ore:compressedCobblestone8x>], [<ore:compressedCobblestone4x>, <ore:compressedCobblestone8x>, <ore:compressedCobblestone4x>]]);

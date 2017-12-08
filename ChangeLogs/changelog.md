@@ -1,6 +1,20 @@
 # TCG's Chill Pack  
 ## Changelog  
 
+### Release 1.1
+Mods Added:  
+N/A  
+
+Mods Removed:  
+N/A  
+
+Updated: 
+- ExtraPlanets to latest version for Ender Zoo fixes 
+
+Configs Changed:  
+- Fixed Tier 2 launchpad recipe to accept any titanium 
+- Finished creating custom main menu
+
 ### Release 1.0.2
 Mods Added:
 - ResourceLoader  
