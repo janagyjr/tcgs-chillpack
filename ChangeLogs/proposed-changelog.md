@@ -1,5 +1,5 @@
 # TCG's Chill Pack  
-## Proposed Changelog 
+## Proposed Changelog  
 
 ### Release 1.5  
 Mods Added:  
@@ -41,3 +41,4 @@ Configs Changed:
 - Disabled Nether Ores explosion, halved pigmen aggro range to 16  
 - Enabled ProjectE Tome of Knowledge to be crafted  
 - Enabled TConstruct connected textures  
+- Adjust global spawn rate in Moo Fluids from 8 (matching vanilla cows) to 6  
