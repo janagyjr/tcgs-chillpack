@@ -83,34 +83,6 @@
             }
         },
 
-        "Support":
-        {
-            "text" : "Support",
-            "posX" : 2,
-            "posY" : 162,
-            "width" : 98,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openLink",
-		    "link" : "https://github.com/janagyjr/tcgs-chill-pack/issues"
-            }
-        },
-
-        "Discord":
-        {
-            "text" : "Discord",
-            "posX" : -100,
-            "posY" : 162,
-            "width" : 98,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openLink",
-                "link" : "http://discord.gg/bfFHEJd"
-            }
-        },
-
         "language":
         {
             "text" : "",
@@ -154,10 +126,10 @@
         "TCG_Joe":
         {
             "text" : "Brought to you by TCG_Joe, Tadakino, ThePhantom, MjolnirsRevenge, animorphed and others",
-            "posX" : -200,
-            "posY" : 5,
+            "posX" : -197,
+            "posY" : -10,
             "color" : -1,
-            "alignment" : "top_center"
+            "alignment" : "bottom_center"
         },
         
         "fml":
