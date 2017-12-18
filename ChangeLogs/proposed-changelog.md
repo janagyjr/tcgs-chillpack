@@ -27,7 +27,7 @@ Updated:
 - ExtraPlanets (1.8.9 > 1.9.0)  
 
 Configs Changed:  
-- Ender IO powered spawner settings changed for wither skeleton  
+- Ender IO powered spawner settings changed for wither skeleton, wireless charger range set to 0  
 - Iguana's Tinker Tweaks tweaked  
 - Changed displayed power units in Applied Energistics to RF  
 - Made BigReactors funny  
