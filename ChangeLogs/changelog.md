@@ -24,7 +24,7 @@ Mods Removed:
 
 
 Updated:  
-- ExtraPlanets (1.8.9 > 1.9.0)  
+- ExtraPlanets (1.8.9 > 1.9.2)  
 
 Configs Changed:  
 - Ender IO powered spawner settings changed for wither skeleton, wireless charger range set to 0  
