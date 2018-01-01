@@ -1,6 +1,19 @@
 # TCG's Chill Pack  
 ## Changelog  
 
+### Release 1.5.1  
+Mods Added:  
+- Eureka  
+
+Mods Removed:  
+- N/A  
+
+Updated:  
+- N/A  
+
+Configes Changed:  
+- N/A  
+
 ### Release 1.5  
 Mods Added:  
 - Unidict  
