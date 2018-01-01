@@ -8,9 +8,11 @@ Mods Added:
 - Hardcore Ender Expansion  
 - Gendustry  
 - Immersive Engineering  
+- Immersive Integration  
 - NEI Addons  
 - AgriCraft  
-- Magical Crops  
+- Magical Crops: Core  
+- Magical Crops Compat - MineFactory Reloaded  
 
 
 Mods Removed:  
@@ -29,8 +31,8 @@ Updated:
 Configs Changed:  
 - Ender IO powered spawner settings changed for wither skeleton, wireless charger range set to 0  
 - Iguana's Tinker Tweaks tweaked  
-- Changed displayed power units in Applied Energistics to RF  
-- Made BigReactors funny  
+- Changed displayed power units in Applied Energistics to RF, changed default search mode to MANUAL_SEARCH,   
+- Made BigReactors funny, enabled oregen in negative dimensions  
 - Disabled MineFactoryReloaded Auto-Spawner, disabled MFR chunk loader, doubled the energy cost for the Rancher, enabled bright rednet colors  
 - Disabled vanilla ender chests in EnderStorage  
 - Turned down oil gen factor to 0.5 from 2.0, enabled CoFHCore worldgen features, increased boss difficulty to 3.0, turned on hard difficulty, turned up rocket fuel factor to 3, disabled update check (since it always fails anyway), enabled space race manager pop up, disabled rocket launching from the mining dimension  
