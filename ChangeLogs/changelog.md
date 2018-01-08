@@ -1,6 +1,23 @@
 # TCG's Chill Pack  
 ## Changelog  
 
+### Release 1.5.3
+Mods Added:  
+- N/A  
+
+Mods Removed  
+- N/A  
+
+Updated:  
+- AE2Stuff (0.5.1.61-mc1.7.10 < ae2stuff-rv3-05.1.9-mc1.7.10) to fix version mismatch with Applied Energistics
+- ExtraPlanets (1.9.2 > 1.9.4)
+
+Configs Changed:  
+CustomMainMenu config updated to include 'support' and 'Discord'buttons.
+
+### Release 1.5.2
+Hot fix release for missing mods  
+
 ### Release 1.5.1  
 Mods Added:  
 - Eureka  
