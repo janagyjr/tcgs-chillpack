@@ -1,5 +1,18 @@
 # TCG's Chill Pack  
 ## Changelog  
+### Release 2.0.1 - Config Fix  
+Mods Added:  
+N/A  
+
+Mods Removed:  
+N/A  
+
+Mods Updated:  
+N/A  
+
+Config Changes:  
+Brought the server configs to single-player, sorry about forgetting it in last update.
+
 ### Release 2.0 - Final Release
 Mods Added:  
 - Iron Chests (yes, I'm readding them, hush)  
