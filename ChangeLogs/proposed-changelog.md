@@ -1,6 +1,33 @@
 # TCG's Chill Pack  
 ## Proposed Changelog  
 
+### Release 2.0.2 - Config Update  
+Mods Added:  
+N/A  
+
+Mods Removed:  
+N/A  
+
+Mods Updated:  
+- ExtraPlanets (2.0.1 > 2.0.4)  
+- Waystones (1.0.10 > 1.0.12)  
+
+Config Changes:  
+Updated CMM to reflect new Discord community. 
+
+### Release 2.0.1 - Config Fix  
+Mods Added:  
+N/A  
+
+Mods Removed:  
+N/A  
+
+Mods Updated:  
+N/A  
+
+Config Changes:  
+Brought the server configs to single-player, sorry about forgetting it in last update.
+
 ### Release 2.0 - Final Release
 Mods Added:  
 - Iron Chests (yes, I'm readding them, hush)  
