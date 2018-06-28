@@ -11,7 +11,7 @@
             "alignment" : "top_center"
         }
     },
-    
+
     "buttons":
     {
         "singleplayer":
@@ -21,13 +21,13 @@
             "posY" : 48,
             "width" : 200,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "singleplayer"
             }
         },
-        
+
         "multiplayer":
         {
             "text" : "menu.multiplayer",
@@ -35,13 +35,13 @@
             "posY" : 72,
             "width" : 200,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "multiplayer"
             }
         },
-        
+
         "mods":
         {
             "text" : "Mods",
@@ -49,13 +49,13 @@
             "posY" : 96,
             "width" : 200,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "mods"
             }
         },
-            
+
         "options":
         {
             "text" : "menu.options",
@@ -63,13 +63,13 @@
             "posY" : 132,
             "width" : 98,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "options"
             }
         },
-        
+
         "quit":
         {
             "text" : "menu.quit",
@@ -77,7 +77,7 @@
             "posY" : 132,
             "width" : 98,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "quit"
             }
@@ -90,7 +90,7 @@
             "posY" : 162,
             "width" : 98,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openLink",
 		    "link" : "https://github.com/janagyjr/tcgs-chill-pack/issues"
@@ -104,10 +104,10 @@
             "posY" : 162,
             "width" : 98,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openLink",
-                "link" : "http://discord.gg/bfFHEJd"
+                "link" : "http://discord.gg/MbREARZ"
             }
         },
 
@@ -118,13 +118,13 @@
             "posY" : 132,
             "width" : 20,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "languages"
             }
         },
-        
+
         "refresh":
         {
             "text" : "",
@@ -133,13 +133,13 @@
             "width" : 20,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons.png",
-            "action" : 
+            "action" :
             {
                 "type" : "refresh"
             }
         }
     },
-    
+
     "texts":
     {
         "mojang":
@@ -159,7 +159,7 @@
             "color" : -1,
             "alignment" : "top_center"
         },
-        
+
         "fml":
         {
             "text" : "",
@@ -169,7 +169,7 @@
             "alignment" : "bottom_left"
         }
     },
-    
+
     "other":
     {
         "splash-text":
@@ -180,7 +180,7 @@
             "alignment" : "top_center",
             "texts" : "file:minecraft:texts/splashes.txt"
         },
-        
+
 	"background":
         {
             "image" : "chillpack:textures/gui/background.png",
