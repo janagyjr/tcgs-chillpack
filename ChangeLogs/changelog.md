@@ -5,14 +5,14 @@ Mods Added:
 N/A  
 
 Mods Removed:  
-N/A  
+- ExtraGolemsMetalAddon (author removed it from CurseForge)  
 
 Mods Updated:  
 - ExtraPlanets (2.0.1 > 2.0.4)  
 - Waystones (1.0.10 > 1.0.12)  
 
 Config Changes:  
-Updated CMM to reflect new Discord community. 
+Updated CMM to reflect new Discord community.  
 
 ### Release 2.0.1 - Config Fix  
 Mods Added:  
