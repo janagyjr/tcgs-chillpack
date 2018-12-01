@@ -1,5 +1,16 @@
 # TCG's Chill Pack  
 ## Changelog  
+
+### Release 2.1.0 - Mod Update
+Mods Added:  
+- N/A  
+
+Mods Removed:  
+- N/A  
+
+Mods Updated:  
+- ExtraPlanets(1.7.10-2.0.4 > 1.7.10-2.0.6)
+
 ### Release 2.0.2 - Config Update  
 Mods Added:  
 N/A  
