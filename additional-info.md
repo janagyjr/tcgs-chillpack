@@ -1,2 +1,2 @@
 # Support  
-Alternate support is available at [TCG & Friends](https://discord.gg/bfFHEJd)
+Alternate support is available at [Joe's Chill Hause](http://discord.tcgjoe.us)

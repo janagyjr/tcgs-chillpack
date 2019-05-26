@@ -1,7 +1,9 @@
-# License  
-## Open Works License
-This pack is released under the terms of the Open Works License version 0.9.4 or greater. 
-[http://owl.apotheon.org/]()  
+# LICENSE  
+This pack is released under the terms of the [Open Works License](http://owl.apotheon.org/)  
+
+## Open Works License  
+
+This is version 0.9.4 of the Open Works License  
 
 ### Terms  
 
