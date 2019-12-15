@@ -1,5 +1,17 @@
 # TCG's Chill Pack  
 ## Proposed Changelog  
+### Release 2.1.1 = Mod Updates and Configuration Changes
+Mods Added:  
+- N/A  
+
+Mods Removed:  
+- N/A  
+
+Mods Updated:  
+- N/A  
+
+Configuration Changes:  
+-  Disabled the use of the Aether Menu System to allow the custom title screen to be the default.  
 
 ### Release 2.1.0 - Mod Update
 Mods Added:  
