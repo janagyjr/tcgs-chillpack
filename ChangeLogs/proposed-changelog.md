@@ -50,7 +50,6 @@ Notes:
 - A lot of these configs are to increase performance client-side. Any server-side mods (or mods that only serve a purpose on a server) will be removed, there will be separate configs optimized for being on a server (client-side only mods will not be in server-pack)  
 - Yes, potentially a new server pack is in the works for people who like playing on older versions of modded Minecraft (I know I do from time to time)  
 - Will potentially be creating a custom background for the options menu (set via randomthings)  
-- Potentially modifying even more crafting recipes  
 
 ### Release 2.1.0 - Mod Update
 Mods Added:  
