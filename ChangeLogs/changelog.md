@@ -8,6 +8,7 @@ Mods Added:
 
 Mods Removed:  
 - BetterStorage, already plenty of blocks from other mods for storage  
+- Ender Compass (project deleted from CurseForge entirely)  
 
 Mods Updated:  
 - Carpenter's Blocks (3.3.8.1 > 3.3.8.2)  
