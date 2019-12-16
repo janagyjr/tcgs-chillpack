@@ -7,6 +7,6 @@ And to connect all of your awesome builds together you have Railcraft to build m
 If you enjoy technology and exploration, this is definitely a pack you can chill out with and play long-term.  
 
 ## Support Options  
-You can find my pack on the [Twitch launcher desktop app](http://www.curse.com/) or on [Curse](https://www.curseforge.com/minecraft/modpacks/tcgs-chill-pack)  
+You can find my pack on the [Twitch launcher desktop app](http://www.curseforge.com/) or on [Curse](https://www.curseforge.com/minecraft/modpacks/tcgs-chill-pack)  
 
 Always get TCG's Chill Pack from official sources and you'll never have anything to worry about! Launching the pack from launchers other than Twitch is not supported currently due to certain mod incompatibilities.  Am aware of at least one issue and am working to have it fixed if feasible.
