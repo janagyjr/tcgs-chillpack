@@ -9,4 +9,4 @@ If you enjoy technology and exploration, this is definitely a pack you can chill
 ## Support Options  
 You can find my pack on the [Twitch launcher desktop app](http://www.curse.com/) or on [Curse](https://mods.curse.com/modpacks/minecraft/273191-tcgs-chill-pack)  
 
-Always get TCG's Chill Pack from official sources and you'll never have anything to worry about! Launching the pack from other launchers is not supported currently.  
+Always get TCG's Chill Pack from official sources and you'll never have anything to worry about! Launching the pack from launchers other than Twitch is not supported currently due to certain mod incompatibilities.  Am aware of at least one issue and am working to have it fixed if feasible. 
