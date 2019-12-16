@@ -14,7 +14,6 @@ Configuration Changes:
 - Disabled the use of the Aether Menu System to allow the custom title screen to be the default.  
 - Set AgriCraft to only create water pads while sneaking (QoL change); whitelisted Forestry humus for AgriCraft crops   
 - Disabled Aroma1997's version checking, no need to dial home and waste bandwidth  
-- Changed the mining biome ID  
 - Toned down yellorium generation a little bit  
 - Increased landmass percentage to 30 in BoP terraingen  
 - In cofh core, increased FlatBedrock layers from 2 to 3, just in case  
