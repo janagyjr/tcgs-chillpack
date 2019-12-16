@@ -23,7 +23,6 @@ Configuration Changes:
 - Increased Galacticraft rocket fuel factor to 5 to account for infinite oil/fuel capabilities in the pack  
 - Enabled alternative crafting mats in ProjectE (require a nether star instead of a diamond in some recipes); added in a 60 tick cooldown for ProjectE projectile weapons  
 - Increased dimlet stack size from 16 to 64; changed dungeonChance to 75 from 100; disabled the limit on maximum dimensions per player (this will be changed for servers)  
-- Changed the Backlytra recipe to ridiculous  
 - Disabled the Backpack 3d model  
 - Increased chunks allow to be loaded via ChickenChunks; changed away timeout to infinite (will be different for server pack); disabled update check since it checks for latest available regardless of MC version; set maximum chunks per chunkloader to op maximum (open a ticket if this causes issues in ssp only, server configs will be different)  
 - Increased particle tick rate to 100 for Chisel blocks; enabled chiseling to/from vanilla leaves; disabled velocity multiplier for concrete (who the hell finds this not annoying?!); made concrete a full block; increased marble gem from 7 to 8  
