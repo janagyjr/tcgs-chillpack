@@ -1,6 +1,6 @@
 # TCG's Chill Pack  
 ## Proposed Changelog  
-### Release 2.1.1 = Mod Updates and Configuration Changes  
+### Release 2.1.1 - Mod Updates and Configuration Changes  
 ### ExtraUtilities 2 causes opening issues in other launchers, only Twitch launcher is currently officially supported, open bug reports to report success of pack launch "as-is" (no disabled/removed mods) and testing to confirm will add that launcher to the list of 'supported' launchers  
 ### Potentially world-destroying update! Anytime a mod is added/removed it has the potential to destroy existing worlds, update at your own risk!  
 Mods Added:  
@@ -8,6 +8,7 @@ Mods Added:
 
 Mods Removed:  
 - BetterStorage, already plenty of blocks from other mods for storage  
+- Ender Compass (project deleted from CurseForge entirely)  
 
 Mods Updated:  
 - Carpenter's Blocks (3.3.8.1 > 3.3.8.2)  
