@@ -17,7 +17,13 @@ Configuration Changes:
 - Changed the mining biome ID  
 - Toned down yellorium generation a little bit  
 - Increased landmass percentage to 30 in BoP terraingen  
-- In cofh core, increased FlatBedrock layers from 2 to 3, just in case;  
+- In cofh core, increased FlatBedrock layers from 2 to 3, just in case  
+- Decided to use the alternate model for the EnderIO dimensional transceiver; put a 5 second cooldown on travel anchors; increased max distance to 64; increased the default farming area for double- and octadic-equipped farming stations  
+- Added some additional fortunes to EnderIO addons  
+- Increased the base health modifier in hardmode for EnderZoo from 1.1 to 1.5; increased range of dire wolf from 4.0 to 6.0; increased damage modifier for dire wolf in hard mode to 1.5; set enderminy minimum Y spawn level to 15; allow enderminies to spawn in lit areas  
+- Increased Galacticraft rocket fuel factor to 5 to account for infinite oil/fuel capabilities in the pack  
+- Enabled alternative crafting mats in ProjectE (require a nether star instead of a diamond in some recipes); added in a 60 tick cooldown for ProjectE projectile weapons  
+- 
 
 ### Release 2.1.0 - Mod Update
 Mods Added:  
