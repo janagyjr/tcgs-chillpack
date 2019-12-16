@@ -8,10 +8,12 @@ Mods Removed:
 - BetterStorage, already plenty of blocks from other mods for storage  
 
 Mods Updated:  
-- N/A  
+- Carpenter's Blocks (3.3.8.1 > 3.3.8.2)  
+- ExtraPlanets (2.0.6 > 2.1.2)  
+- IronTanks (1.1.16 > 1.1.16.16)  
 
 Configuration Changes:  
-- Disabled the use of the Aether Menu System to allow the custom title screen to be the default.  
+- Disabled the use of the Aether Menu System to allow the custom title screen to be the default  
 - Set AgriCraft to only create water pads while sneaking (QoL change); whitelisted Forestry humus for AgriCraft crops   
 - Disabled Aroma1997's version checking, no need to dial home and waste bandwidth  
 - Toned down yellorium generation a little bit  
