@@ -11,7 +11,7 @@ Mods Updated:
 - N/A  
 
 Configuration Changes:  
--  Disabled the use of the Aether Menu System to allow the custom title screen to be the default.  
+- Disabled the use of the Aether Menu System to allow the custom title screen to be the default.  
 - Set AgriCraft to only create water pads while sneaking (QoL change); whitelisted Forestry humus for AgriCraft crops;   
 - Disabled Aroma1997's version checking, no need to dial home and waste bandwidth  
 - Changed the mining biome ID  
