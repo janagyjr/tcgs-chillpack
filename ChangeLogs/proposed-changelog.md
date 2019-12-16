@@ -12,6 +12,9 @@ Mods Updated:
 - ExtraPlanets (2.0.6 > 2.1.2)  
 - IronTanks (1.1.16 > 1.1.16.16)  
 
+Resource Pack(s) Updated:  
+- Soartex Fanver - Modded  
+
 Configuration Changes:  
 - Disabled the use of the Aether Menu System to allow the custom title screen to be the default  
 - Set AgriCraft to only create water pads while sneaking (QoL change); whitelisted Forestry humus for AgriCraft crops   
