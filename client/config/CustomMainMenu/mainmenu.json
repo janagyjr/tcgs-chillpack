@@ -93,7 +93,7 @@
             "action" :
             {
                 "type" : "openLink",
-		    "link" : "https://github.com/janagyjr/tcgs-chill-pack/issues"
+		    "link" : "https://github.com/janagyjr/tcgs-chillpack"
             }
         },
 
@@ -107,7 +107,7 @@
             "action" :
             {
                 "type" : "openLink",
-                "link" : "http://discord.tcgjoe.us"
+                "link" : "http://modpacks.tcgjoe.us"
             }
         },
 
@@ -151,9 +151,9 @@
             "alignment" : "bottom_right"
         },
 
-        "TCG_Joe":
+        "TCGJoe":
         {
-            "text" : "Brought to you by TCG_Joe, Tadakino, ThePhantom, MjolnirsRevenge, animorphed and others",
+            "text" : "Brought to you by TCGJoe, Tadakino, ThePhantom, MjolnirsRevenge, animorphed and others",
             "posX" : -200,
             "posY" : 5,
             "color" : -1,
