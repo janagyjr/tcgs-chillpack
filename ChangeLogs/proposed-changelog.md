@@ -1,5 +1,27 @@
 # TCG's Chill Pack  
 ## Proposed Changelog  
+### Release 2.2.0 - Major Configuration changes and mod updates  
+### Mods Added  
+- N/A
+
+### Mods Removed  
+- N/A  
+
+### Mods Updated  
+- CodeChickenCore (1.7.10-1.0.7.47-universal > CodeChickenCore-1.7.10-1.0.7.48-universal)  
+- ExtraPlanets (1.7.10-2.1.3 > 1.7.10-2.1.4)  
+
+### Configuration Changes  
+- Normalized ore generation to prevent multiple ores of same type from spawning, allowing for easier storage.
+- Forestry: Disabled copper and tin  
+- Galacticraft: Disabled Overworld generation of copper, Aluminum and tin  
+- Railcraft: Disabled update checking, disabled generation of copper, gold, iron, lead, and tin  
+- IndustrialCraft 2: Disabled Copper, Tin, Lead  
+- Immersive Engineering: Disabled Silver, Nickel, Lead, Copper, Aluminum (Bauxite)  
+- MUD: Set update checker to false  
+- Mekanism: Disabled copper, tin generation  
+- Tinker's Construct: Disabled copper, Aluminum and tin ores  
+
 ### Release 2.1.2 - Minor Configuration Changes and Mod Updates  
 ### Mods Added  
 - N/A  
