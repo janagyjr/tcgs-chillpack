@@ -17,10 +17,11 @@
 - Galacticraft: Disabled Overworld generation of copper, Aluminum and tin  
 - Railcraft: Disabled update checking, disabled generation of copper, gold, iron, lead, and tin  
 - IndustrialCraft 2: Disabled Copper, Tin, Lead  
-- Immersive Engineering: Disabled Silver, Nickel, Lead, Copper, Aluminum (Bauxite)  
+- Immersive Engineering: Disabled Silver, Nickel, Lead, Copper, Aluminum (Bauxite), set ThermalFoundation to be the preferred Mod ID for ore outputs.   
 - MUD: Set update checker to false  
 - Mekanism: Disabled copper, tin generation  
 - Tinker's Construct: Disabled copper, Aluminum and tin ores  
+- Normalizing client and server Configs
 
 ### Release 2.1.2 - Minor Configuration Changes and Mod Updates  
 ### Mods Added  
